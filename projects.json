@@ -1,0 +1,619 @@
+[
+  {
+    "aliases": [],
+    "host": "0rz.tw",
+    "warrior_project_name": "0rz-tw"
+  },
+  {
+    "aliases": [],
+    "host": "1r.hu",
+    "warrior_project_name": "1r-hu"
+  },
+  {
+    "aliases": [],
+    "host": "2.gp",
+    "warrior_project_name": "2-gp"
+  },
+  {
+    "aliases": [],
+    "host": "2.ly",
+    "warrior_project_name": "2-ly"
+  },
+  {
+    "aliases": [],
+    "host": "2jump.info",
+    "warrior_project_name": "2jump-info"
+  },
+  {
+    "aliases": [],
+    "host": "7.ly",
+    "warrior_project_name": "7-ly"
+  },
+  {
+    "aliases": [],
+    "host": "a.gg",
+    "warrior_project_name": "a-gg"
+  },
+  {
+    "aliases": [],
+    "host": "adjix.com",
+    "warrior_project_name": "adjix"
+  },
+  {
+    "aliases": [],
+    "host": "alturl.com",
+    "warrior_project_name": "alturl-com"
+  },
+  {
+    "aliases": [],
+    "host": "ar.gy",
+    "warrior_project_name": "ar-gy"
+  },
+  {
+    "aliases": [],
+    "host": "arseh.at",
+    "warrior_project_name": "arseh-at"
+  },
+  {
+    "aliases": [],
+    "host": "awe.sm",
+    "warrior_project_name": "awe-sm"
+  },
+  {
+    "aliases": [],
+    "host": "bit.do",
+    "warrior_project_name": "bit-do"
+  },
+  {
+    "aliases": [
+      "cnet.co",
+      "lat.ms",
+      "grd.to",
+      "huff.to",
+      "blizz.ly",
+      "nydn.us",
+      "snd.sc",
+      "cot.ag",
+      "mojo.ly",
+      "carrot.cr",
+      "conta.cc",
+      "1.usa.gov",
+      "cnnmon.ie",
+      "j.mp",
+      "arfo.sk",
+      "cb.com",
+      "reut.rs",
+      "bloom.bg",
+      "bbc.in",
+      "bzfd.it",
+      "ti.me",
+      "abcn.ws",
+      "kck.st",
+      "ift.tt",
+      "nyti.ms",
+      "engri.sh",
+      "fltsim.me",
+      "lft.to",
+      "spoti.fi",
+      "on.si.com",
+      "lemde.fr",
+      "atfp.co",
+      "gph.is",
+      "eonli.ne",
+      "usat.ly",
+      "chzb.gr",
+      "theatln.tc",
+      "kore.us",
+      "marsdd.it",
+      "mbist.ro",
+      "wapo.st",
+      "vstphl.ly",
+      "hub.am",
+      "corb.is",
+      "whrt.it",
+      "aje.me",
+      "binged.it",
+      "bbybgrl.com",
+      "crks.me",
+      "econ.st",
+      "stanford.io",
+      "emarketee.rs",
+      "amzn.to",
+      "curbed.cc",
+      "fxn.ws",
+      "4sq.com",
+      "es.pn",
+      "canva.link",
+      "dag.gy",
+      "jrnl.to"
+    ],
+    "host": "bit.ly",
+    "warrior_project_name": "bitly_6"
+  },
+  {
+    "aliases": [],
+    "host": "buff.ly",
+    "warrior_project_name": "buff-ly"
+  },
+  {
+    "aliases": [],
+    "host": "bull.hn",
+    "warrior_project_name": "bull-hn"
+  },
+  {
+    "aliases": [],
+    "host": "burl.se",
+    "warrior_project_name": "burl-se"
+  },
+  {
+    "aliases": [],
+    "host": "ccl.hu",
+    "warrior_project_name": "ccl-hu"
+  },
+  {
+    "aliases": [],
+    "host": "chilp.it",
+    "warrior_project_name": "chilp-it"
+  },
+  {
+    "aliases": [],
+    "host": "cmplx.it",
+    "warrior_project_name": "cmplx-it"
+  },
+  {
+    "aliases": [],
+    "host": "cutt.us",
+    "warrior_project_name": "cutt.us"
+  },
+  {
+    "aliases": [],
+    "host": "da.gd",
+    "warrior_project_name": "da-gd"
+  },
+  {
+    "aliases": [],
+    "host": "db.tt",
+    "warrior_project_name": "db-tt"
+  },
+  {
+    "aliases": [],
+    "host": "df4.us",
+    "warrior_project_name": "df4-us"
+  },
+  {
+    "aliases": [],
+    "host": "dld.bz",
+    "warrior_project_name": "dld-bz"
+  },
+  {
+    "aliases": [],
+    "host": "dwurl.hu",
+    "warrior_project_name": "dwurl-hu"
+  },
+  {
+    "aliases": [],
+    "host": "feedly.com",
+    "warrior_project_name": "feedly_8"
+  },
+  {
+    "aliases": [],
+    "host": "flip.it",
+    "warrior_project_name": "flip-it"
+  },
+  {
+    "aliases": [],
+    "host": "fos.hu",
+    "warrior_project_name": "fos-hu"
+  },
+  {
+    "aliases": [],
+    "host": "fwdurl.net",
+    "warrior_project_name": "fwdurl-net"
+  },
+  {
+    "aliases": [
+      "gsfn.us"
+    ],
+    "host": "getsatisfaction.com",
+    "warrior_project_name": "getsatisfaction-com"
+  },
+  {
+    "aliases": [],
+    "host": "gg.gg",
+    "warrior_project_name": "gg-gg"
+  },
+  {
+    "aliases": [],
+    "host": "gkurl.u",
+    "warrior_project_name": "gkurl-us"
+  },
+  {
+    "aliases": [],
+    "host": "go.usa.gov",
+    "warrior_project_name": "go-usa-gov"
+  },
+  {
+    "aliases": [],
+    "host": "hec.su",
+    "warrior_project_name": "hec-su"
+  },
+  {
+    "aliases": [],
+    "host": "hoblu.es",
+    "warrior_project_name": "hoblu-es"
+  },
+  {
+    "aliases": [],
+    "host": "hub.me",
+    "warrior_project_name": "hub-me-a"
+  },
+  {
+    "aliases": [],
+    "host": "is.gd",
+    "warrior_project_name": "isgd_6"
+  },
+  {
+    "aliases": [],
+    "host": "jdem.cz",
+    "warrior_project_name": "jdem-cz"
+  },
+  {
+    "aliases": [],
+    "host": "kas.pr",
+    "warrior_project_name": "kas-pr"
+  },
+  {
+    "aliases": [],
+    "host": "kcy.me",
+    "warrior_project_name": "kcy-me"
+  },
+  {
+    "aliases": [],
+    "host": "korta.nu",
+    "warrior_project_name": "korta-nu"
+  },
+  {
+    "aliases": [],
+    "host": "lnk.sk",
+    "warrior_project_name": "lnk-sk"
+  },
+  {
+    "aliases": [],
+    "host": "lnq.me",
+    "warrior_project_name": "lnq-me"
+  },
+  {
+    "aliases": [],
+    "host": "lurl.no",
+    "warrior_project_name": "lurl-no"
+  },
+  {
+    "aliases": [],
+    "host": "migre.me",
+    "warrior_project_name": "migre-me"
+  },
+  {
+    "aliases": [
+      "minurl.fr"
+    ],
+    "host": "minu.me",
+    "warrior_project_name": "minu-me"
+  },
+  {
+    "aliases": [],
+    "host": "mrte.ch",
+    "warrior_project_name": "mrte.ch"
+  },
+  {
+    "aliases": [],
+    "host": "mysp.ac",
+    "warrior_project_name": "mysp-ac"
+  },
+  {
+    "aliases": [],
+    "host": "nig.gr",
+    "warrior_project_name": "nig-gr"
+  },
+  {
+    "aliases": [],
+    "host": "nsfw.in",
+    "warrior_project_name": "nsfw-in"
+  },
+  {
+    "aliases": [],
+    "host": "oak.ctx.ly",
+    "warrior_project_name": "oak-ctx-ly"
+  },
+  {
+    "aliases": [
+      "ht.ly",
+      "htl.li",
+      "owl.li"
+    ],
+    "host": "ow.ly",
+    "warrior_project_name": "ow-ly"
+  },
+  {
+    "aliases": [
+      "re.p.ly"
+    ],
+    "host": "p.ly",
+    "warrior_project_name": "p-ly"
+  },
+  {
+    "aliases": [],
+    "host": "pear.ly",
+    "warrior_project_name": "pear-ly"
+  },
+  {
+    "aliases": [],
+    "host": "ph.ly",
+    "warrior_project_name": "ph-ly"
+  },
+  {
+    "aliases": [],
+    "host": "piciurl.hu",
+    "warrior_project_name": "piciurl-hu"
+  },
+  {
+    "aliases": [],
+    "host": "poeurl.com",
+    "warrior_project_name": "poeurl-com"
+  },
+  {
+    "aliases": [],
+    "host": "pub.vitrue.com",
+    "warrior_project_name": "pub-vitrue-com"
+  },
+  {
+    "aliases": [],
+    "host": "qr.cx",
+    "warrior_project_name": "qr-cx"
+  },
+  {
+    "aliases": [],
+    "host": "rod.gs",
+    "warrior_project_name": "rod-gs"
+  },
+  {
+    "aliases": [],
+    "host": "s.id",
+    "warrior_project_name": "s-id"
+  },
+  {
+    "aliases": [],
+    "host": "shar.es",
+    "warrior_project_name": "shar-es"
+  },
+  {
+    "aliases": [
+      "shrd.by"
+    ],
+    "host": "sharedby.co",
+    "warrior_project_name": "sharedby-co_6"
+  },
+  {
+    "aliases": [
+      "doi.org",
+      "dx.doi.org"
+    ],
+    "host": "shortdoi.org",
+    "warrior_project_name": "shortdoi-org"
+  },
+  {
+    "aliases": [],
+    "host": "shortn.me",
+    "warrior_project_name": "shortn-me"
+  },
+  {
+    "aliases": [],
+    "host": "shrt.st",
+    "warrior_project_name": "shrt-st"
+  },
+  {
+    "aliases": [
+      "skfb.ly"
+    ],
+    "host": "sketchfab.com",
+    "warrior_project_name": "sketchfab-com"
+  },
+  {
+    "aliases": [],
+    "host": "snipurl.com",
+    "warrior_project_name": "snipurl"
+  },
+  {
+    "aliases": [
+      "sn.im",
+      "snipurl.com",
+      "snipr.com",
+      "snurl.com"
+    ],
+    "host": "snipurl.com",
+    "warrior_project_name": "snipurl_range2"
+  },
+  {
+    "aliases": [],
+    "host": "spne.ws",
+    "warrior_project_name": "spne-ws"
+  },
+  {
+    "aliases": [],
+    "host": "srtn.us",
+    "warrior_project_name": "srtn-us"
+  },
+  {
+    "aliases": [],
+    "host": "sx3.se",
+    "warrior_project_name": "sx3-se"
+  },
+  {
+    "aliases": [],
+    "host": "t7.hu",
+    "warrior_project_name": "t7-hu"
+  },
+  {
+    "aliases": [],
+    "host": "techme.me",
+    "warrior_project_name": "techme-me"
+  },
+  {
+    "aliases": [
+      "gu.com"
+    ],
+    "host": "theguardian.com",
+    "warrior_project_name": "theguardian-com"
+  },
+  {
+    "aliases": [
+      "2tu.us"
+    ],
+    "host": "tighturl.com",
+    "warrior_project_name": "tighturl-com"
+  },
+  {
+    "aliases": [],
+    "host": "tiny.pl",
+    "warrior_project_name": "tiny-pl"
+  },
+  {
+    "aliases": [],
+    "host": "tiny.tw",
+    "warrior_project_name": "tiny-tw"
+  },
+  {
+    "aliases": [],
+    "host": "tinyurl.hu",
+    "warrior_project_name": "tinyurl-hu_4"
+  },
+  {
+    "aliases": [],
+    "host": "tinyurl.com",
+    "warrior_project_name": "tinyurl_7"
+  },
+  {
+    "aliases": [],
+    "host": "tr.im",
+    "warrior_project_name": "tr-im_gravity4"
+  },
+  {
+    "aliases": [],
+    "host": "trap.it",
+    "warrior_project_name": "trap-it"
+  },
+  {
+    "aliases": [],
+    "host": "u.to",
+    "warrior_project_name": "u-to"
+  },
+  {
+    "aliases": [],
+    "host": "u4.hu",
+    "warrior_project_name": "u4-hu"
+  },
+  {
+    "aliases": [],
+    "host": "ur1.ca",
+    "warrior_project_name": "ur1-ca"
+  },
+  {
+    "aliases": [],
+    "host": "urlcut.com",
+    "warrior_project_name": "urlcut-com"
+  },
+  {
+    "aliases": [],
+    "host": "vbly.us",
+    "warrior_project_name": "vbly-us"
+  },
+  {
+    "aliases": [],
+    "host": "v.gd",
+    "warrior_project_name": "vgd_6"
+  },
+  {
+    "aliases": [],
+    "host": "viddy.it",
+    "warrior_project_name": "viddy-it"
+  },
+  {
+    "aliases": [],
+    "host": "waa.ai",
+    "warrior_project_name": "waa-ai"
+  },
+  {
+    "aliases": [],
+    "host": "wowurl.com",
+    "warrior_project_name": "wowurl-com"
+  },
+  {
+    "aliases": [],
+    "host": "wp.me",
+    "warrior_project_name": "wp-me"
+  },
+  {
+    "aliases": [],
+    "host": "x.co",
+    "warrior_project_name": "xco"
+  },
+  {
+    "aliases": [],
+    "host": "xn--i-8ia.ga",
+    "warrior_project_name": "xn--i-8ia-ga"
+  },
+  {
+    "aliases": [],
+    "host": "xrl.us",
+    "warrior_project_name": "xrl-us"
+  },
+  {
+    "aliases": [],
+    "host": "xrl.us",
+    "warrior_project_name": "xrl-us_lowercase"
+  },
+  {
+    "aliases": [],
+    "host": "xxsurl.de",
+    "warrior_project_name": "xxsurl-de"
+  },
+  {
+    "aliases": [],
+    "host": "y.ahoo.it",
+    "warrior_project_name": "y-ahoo-it_5"
+  },
+  {
+    "aliases": [],
+    "host": "y.ahoo.it",
+    "warrior_project_name": "y-ahoo-it_6"
+  },
+  {
+    "aliases": [],
+    "host": "y.ahoo.it",
+    "warrior_project_name": "y-ahoo-it_8"
+  },
+  {
+    "aliases": [],
+    "host": "yatuc.com",
+    "warrior_project_name": "yatuc"
+  },
+  {
+    "aliases": [],
+    "host": "yatuc.com",
+    "warrior_project_name": "yatuc-com"
+  },
+  {
+    "aliases": [],
+    "host": "yoolink.to",
+    "warrior_project_name": "yoolink-to"
+  },
+  {
+    "aliases": [],
+    "host": "zpr.io",
+    "warrior_project_name": "zpr-io"
+  },
+  {
+    "aliases": [],
+    "host": "zurl.ws",
+    "warrior_project_name": "zurl-ws"
+  }
+]
