@@ -16,4 +16,4 @@ All credit for the original research goes to URLTeam.
 ## Code
 
 * [`beacon`](https://github.com/thunken/beacon): Java parser and utilities for BEACON, the data interchange format used by `terroroftinytown`
-* `surveyoroftinytown-java` (coming soon): Java utilities to load `surveyoroftinytown` and interact with the API on https://tracker.archiveteam.org:1338/status
+* [`surveyoroftinytown-java`](https://github.com/thunken/surveyoroftinytown-java): Java utilities to load `surveyoroftinytown` and interact with the API on https://tracker.archiveteam.org:1338/status
