@@ -1,6 +1,11 @@
 [
   {
     "aliases": [],
+    "host": "0.mk",
+    "warrior_project_name": "0-mk"
+  },
+  {
+    "aliases": [],
     "host": "0rz.tw",
     "warrior_project_name": "0rz-tw"
   },
@@ -31,8 +36,23 @@
   },
   {
     "aliases": [],
+    "host": "999.sh",
+    "warrior_project_name": "999-sh"
+  },
+  {
+    "aliases": [],
     "host": "a.gg",
     "warrior_project_name": "a-gg"
+  },
+  {
+    "aliases": [],
+    "host": "a.ll.st",
+    "warrior_project_name": "a-ll-st"
+  },
+  {
+    "aliases": [],
+    "host": "abelinc.me",
+    "warrior_project_name": "abelinc-me"
   },
   {
     "aliases": [],
@@ -58,6 +78,11 @@
     "aliases": [],
     "host": "awe.sm",
     "warrior_project_name": "awe-sm"
+  },
+  {
+    "aliases": [],
+    "host": "azon.biz",
+    "warrior_project_name": "azon-biz"
   },
   {
     "aliases": [],
@@ -162,6 +187,16 @@
   },
   {
     "aliases": [],
+    "host": "cokeurl.com",
+    "warrior_project_name": "cokeurl-com"
+  },
+  {
+    "aliases": [],
+    "host": "cort.as",
+    "warrior_project_name": "cort-as"
+  },
+  {
+    "aliases": [],
     "host": "cutt.us",
     "warrior_project_name": "cutt-us"
   },
@@ -177,13 +212,38 @@
   },
   {
     "aliases": [],
+    "host": "destyy.com",
+    "warrior_project_name": "destyy-com"
+  },
+  {
+    "aliases": [],
     "host": "df4.us",
     "warrior_project_name": "df4-us"
   },
   {
     "aliases": [],
+    "host": "dfl8.me",
+    "warrior_project_name": "dfl8-me"
+  },
+  {
+    "aliases": [],
+    "host": "digbig.com",
+    "warrior_project_name": "digbig-com"
+  },
+  {
+    "aliases": [],
     "host": "dld.bz",
     "warrior_project_name": "dld-bz"
+  },
+  {
+    "aliases": [],
+    "host": "dlvr.it",
+    "warrior_project_name": "dlvr-it"
+  },
+  {
+    "aliases": [],
+    "host": "don8blood.com",
+    "warrior_project_name": "don8blood-com"
   },
   {
     "aliases": [],
@@ -229,8 +289,28 @@
   },
   {
     "aliases": [],
+    "host": "go.hawaii.edu",
+    "warrior_project_name": "go-hawaii-edu"
+  },
+  {
+    "aliases": [],
     "host": "go.usa.gov",
     "warrior_project_name": "go-usa-gov"
+  },
+  {
+    "aliases": [],
+    "host": "go.vic.gov.au",
+    "warrior_project_name": "go-vic-gov-au"
+  },
+  {
+    "aliases": [],
+    "host": "goo.gl",
+    "warrior_project_name": "goo-gl"
+  },
+  {
+    "aliases": [],
+    "host": "gouri.tv",
+    "warrior_project_name": "gouri-tv"
   },
   {
     "aliases": [],
@@ -246,6 +326,11 @@
     "aliases": [],
     "host": "hub.me",
     "warrior_project_name": "hub-me-a"
+  },
+  {
+    "aliases": [],
+    "host": "hub.me",
+    "warrior_project_name": "hub-me-r"
   },
   {
     "aliases": [],
@@ -274,6 +359,16 @@
   },
   {
     "aliases": [],
+    "host": "kortlink.dk",
+    "warrior_project_name": "kortlink-dk"
+  },
+  {
+    "aliases": [],
+    "host": "like2b.uy",
+    "warrior_project_name": "like2b-uy"
+  },
+  {
+    "aliases": [],
     "host": "lnk.sk",
     "warrior_project_name": "lnk-sk"
   },
@@ -286,6 +381,11 @@
     "aliases": [],
     "host": "lurl.no",
     "warrior_project_name": "lurl-no"
+  },
+  {
+    "aliases": [],
+    "host": "m0e.me",
+    "warrior_project_name": "m0e-me"
   },
   {
     "aliases": [],
@@ -311,8 +411,23 @@
   },
   {
     "aliases": [],
+    "host": "nblo.gs",
+    "warrior_project_name": "nblo-gs"
+  },
+  {
+    "aliases": [],
+    "host": "news.ycombinator.com",
+    "warrior_project_name": "news-ycombinator-com"
+  },
+  {
+    "aliases": [],
     "host": "nig.gr",
     "warrior_project_name": "nig-gr"
+  },
+  {
+    "aliases": [],
+    "host": "npm.me",
+    "warrior_project_name": "npm-me"
   },
   {
     "aliases": [],
@@ -323,6 +438,11 @@
     "aliases": [],
     "host": "oak.ctx.ly",
     "warrior_project_name": "oak-ctx-ly"
+  },
+  {
+    "aliases": [],
+    "host": "on.board.com",
+    "warrior_project_name": "on-board-com"
   },
   {
     "aliases": [
@@ -357,8 +477,18 @@
   },
   {
     "aliases": [],
+    "host": "po.st",
+    "warrior_project_name": "po-st"
+  },
+  {
+    "aliases": [],
     "host": "poeurl.com",
     "warrior_project_name": "poeurl-com"
+  },
+  {
+    "aliases": [],
+    "host": "poeurl.com",
+    "warrior_project_name": "poeurl-com3"
   },
   {
     "aliases": [],
@@ -367,8 +497,33 @@
   },
   {
     "aliases": [],
+    "host": "puri.na",
+    "warrior_project_name": "puri-na"
+  },
+  {
+    "aliases": [],
+    "host": "qik.ly",
+    "warrior_project_name": "qik-ly"
+  },
+  {
+    "aliases": [],
     "host": "qr.cx",
     "warrior_project_name": "qr-cx"
+  },
+  {
+    "aliases": [],
+    "host": "qt.catbox.moe",
+    "warrior_project_name": "qt-catbox-moe"
+  },
+  {
+    "aliases": [],
+    "host": "red.ht",
+    "warrior_project_name": "red-ht"
+  },
+  {
+    "aliases": [],
+    "host": "rlu.ru",
+    "warrior_project_name": "rlu-ru"
   },
   {
     "aliases": [],
@@ -377,8 +532,18 @@
   },
   {
     "aliases": [],
+    "host": "rtsoftware.systems",
+    "warrior_project_name": "rtsoftware-systems"
+  },
+  {
+    "aliases": [],
     "host": "s.id",
     "warrior_project_name": "s-id"
+  },
+  {
+    "aliases": [],
+    "host": "s.uconn.edu",
+    "warrior_project_name": "s-uconn-edu"
   },
   {
     "aliases": [],
@@ -439,6 +604,11 @@
   },
   {
     "aliases": [],
+    "host": "spnsr.tw",
+    "warrior_project_name": "spnsr-tw"
+  },
+  {
+    "aliases": [],
     "host": "srtn.us",
     "warrior_project_name": "srtn-us"
   },
@@ -493,6 +663,16 @@
   },
   {
     "aliases": [],
+    "host": "tip.pe",
+    "warrior_project_name": "tip-pe"
+  },
+  {
+    "aliases": [],
+    "host": "www.tumblr.com",
+    "warrior_project_name": "tmblr-co"
+  },
+  {
+    "aliases": [],
     "host": "tr.im",
     "warrior_project_name": "tr-im_gravity4"
   },
@@ -518,6 +698,11 @@
   },
   {
     "aliases": [],
+    "host": "url.ie",
+    "warrior_project_name": "url-ie"
+  },
+  {
+    "aliases": [],
     "host": "urlcut.com",
     "warrior_project_name": "urlcut-com"
   },
@@ -538,6 +723,16 @@
   },
   {
     "aliases": [],
+    "host": "vzturl.com",
+    "warrior_project_name": "vzturl-com"
+  },
+  {
+    "aliases": [],
+    "host": "w.wiki",
+    "warrior_project_name": "w-wiki"
+  },
+  {
+    "aliases": [],
     "host": "waa.ai",
     "warrior_project_name": "waa-ai"
   },
@@ -550,6 +745,11 @@
     "aliases": [],
     "host": "wp.me",
     "warrior_project_name": "wp-me"
+  },
+  {
+    "aliases": [],
+    "host": "x.vu",
+    "warrior_project_name": "x-vu"
   },
   {
     "aliases": [],
@@ -570,6 +770,11 @@
     "aliases": [],
     "host": "xrl.us",
     "warrior_project_name": "xrl-us_lowercase"
+  },
+  {
+    "aliases": [],
+    "host": "xurl.es",
+    "warrior_project_name": "xurl-es"
   },
   {
     "aliases": [],
